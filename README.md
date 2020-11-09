@@ -7,3 +7,4 @@
 * -NI PXIe-4113
 * -NI PXIe-2532
 * -NI PXIe-4081
+* -NI PXIe-4081
